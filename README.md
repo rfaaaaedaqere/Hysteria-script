@@ -8,7 +8,7 @@ Hysteria 一键脚本，支持IPv4、IPv6 VPS
 
 ```shell
 # wget -N https://raw.githubusercontents.com/Misaka-blog/Hysteria-script/master/hysteria.sh && bash hysteria.sh
-wget -N https://raw.githubusercontents.com/tpe28/Hysteria-script/master/hysteria.sh && bash hysteria.sh
+wget -N https://raw.githubusercontents.com/rfaaaaedaqere/Hysteria-script/master/hysteria.sh && bash hysteria.sh
 ```
 
 ### 快捷指令
